@@ -1,3 +1,5 @@
+Adapted from:
+
 # Adversarial Attack for NLP
 
 This is the official repo of our COLING 2020 Paper: **[A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples](https://www.aclweb.org/anthology/2020.coling-main.585.pdf)**.
